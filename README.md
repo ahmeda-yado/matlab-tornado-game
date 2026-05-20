@@ -3,8 +3,7 @@
 竜巻を操作し、フィールド上の塵やゴミを巻き上げて得点を競うミニゲームです。
 
 ![demo](images/tatsumaki_demo_03.gif)
-
-![demo](images/demotatsumaki_image_01.gif)
+![demo](images/tatsumaki_image_01.gif)
 
 ---
 
