@@ -1,5 +1,5 @@
 # matlab-tornado-game
-まとらぼで作った竜巻のゲーム。
+matlabで作った竜巻のゲーム。
 竜巻を操作し、フィールド上の塵やゴミを巻き上げて高得点を目指すミニゲームです。
 
 ![demo](images/tatsumaki_demo_03.gif)
